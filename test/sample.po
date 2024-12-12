@@ -1,0 +1,8 @@
+msgid "Welcome to the learning path %s."
+msgstr "Mācību ceļa nosaukums"
+
+msgid "Hello, world!"
+msgstr "Sveika, pasaule!"
+
+msgid "You have completed %d courses"
+msgstr "Tu esi pabeidzis %d kursus"
